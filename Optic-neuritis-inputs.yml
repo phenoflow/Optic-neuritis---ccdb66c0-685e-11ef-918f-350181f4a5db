@@ -1,0 +1,42 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/neuritis---secondary.py
+inputModule3:
+  class: File
+  path: python/optic-neuritis-unspecified---secondary.py
+inputModule4:
+  class: File
+  path: python/bilateral-optic-neuritis---secondary.py
+inputModule5:
+  class: File
+  path: python/right-optic-neuritis---secondary.py
+inputModule6:
+  class: File
+  path: python/other-optic-neuritis---secondary.py
+inputModule7:
+  class: File
+  path: python/optic-neuritis-papillitis---secondary.py
+inputModule8:
+  class: File
+  path: python/optic-neuritis-retrobulbar---secondary.py
+inputModule9:
+  class: File
+  path: python/optic-neuritis-neuromyelitis---secondary.py
+inputModule10:
+  class: File
+  path: python/papillopathy-optic-neuritis---secondary.py
+inputModule11:
+  class: File
+  path: python/optic-neuritis-neuroretinitis---secondary.py
+inputModule12:
+  class: File
+  path: python/acute-optic-neuritis---secondary.py
+inputModule13:
+  class: File
+  path: python/optic-neuritis-henselae---secondary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
